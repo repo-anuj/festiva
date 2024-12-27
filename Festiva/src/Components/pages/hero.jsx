@@ -36,7 +36,7 @@ const Nav = () => {
     <nav className="fixed left-0 right-0 top-0 z-50 flex items-center justify-between px-6 py-3 text-white">
       <img
   src={festiva}
-  className="img mix-blend-difference w-full sm:w-auto md:w-[100px]"
+  className="img mix-blend-difference w-[100px] sm:w-[45px] md:w-[100px]"
 />
       <button
         onClick={() => {
