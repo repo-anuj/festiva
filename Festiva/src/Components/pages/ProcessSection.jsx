@@ -65,7 +65,7 @@ const ProcessSection = () => {
   };
 
   return (
-    <section className="bg-gray-50 py-20 px-4 md:px-8">
+    <section className="py-20 px-4 md:px-8">
       <motion.div
         initial="hidden"
         whileInView="visible"

@@ -1,7 +1,8 @@
+import FAQs from './Components/pages/FAQs';
 import FeatureGrid from './Components/pages/FeatureGrid';
 import { SmoothScrollHero } from './Components/pages/hero';
 import ProcessSection from './Components/pages/ProcessSection';
-import { TextParallaxContentExample } from './Components/pages/TextParallaxContent';
+import TestimonialSection from './Components/pages/TestimonialSection';
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       <SmoothScrollHero />
       <FeatureGrid />
       <ProcessSection />
-      <TextParallaxContentExample />
+      <TestimonialSection />
+      <FAQs />
     </main>
   )
 }

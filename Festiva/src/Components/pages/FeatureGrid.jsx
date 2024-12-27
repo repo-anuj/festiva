@@ -7,35 +7,35 @@ const FeatureGrid = () => {
       title: "Brand Design",
       description: "Creating memorable brand identities that tell your story and connect with your audience.",
       size: "large",
-      image: "/api/placeholder/600/400",
+      image: "https://images.unsplash.com/photo-1734375181552-cfa83d404033?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       delay: 0.2
     },
     {
       title: "Web Design",
       description: "Crafting responsive, modern websites that engage and convert visitors.",
       size: "small",
-      image: "/api/placeholder/400/300",
+      image: "https://images.unsplash.com/photo-1731902062648-260a1b5067a0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       delay: 0.4
     },
     {
       title: "Print Design",
       description: "Delivering impactful print materials that make a lasting impression.",
       size: "medium",
-      image: "/api/placeholder/500/350",
+      image: "https://images.unsplash.com/photo-1729505622656-6da75375c3a2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       delay: 0.6
     },
     {
         title: "Print Design",
         description: "Delivering impactful print materials that make a lasting impression.",
         size: "medium",
-        image: "/api/placeholder/500/350",
+        image: "https://images.unsplash.com/photo-1592495981488-073153776d9a?q=80&w=1824&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         delay: 0.6
       },
       {
         title: "Print Design",
         description: "Delivering impactful print materials that make a lasting impression.",
         size: "medium",
-        image: "/api/placeholder/500/350",
+        image: "https://plus.unsplash.com/premium_vector-1683121968704-a5bcf3bd0244?q=80&w=1802&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         delay: 0.6
       }
   ];
