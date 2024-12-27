@@ -4,6 +4,7 @@ import FeatureGrid from './Components/pages/FeatureGrid';
 import { SmoothScrollHero } from './Components/pages/hero';
 import ProcessSection from './Components/pages/ProcessSection';
 import TestimonialSection from './Components/pages/TestimonialSection';
+import Footer from './Components/pages/Footer';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <TestimonialSection />
       <FAQs />
       <ContactSection />
+      <Footer />
     </main>
   )
 }
