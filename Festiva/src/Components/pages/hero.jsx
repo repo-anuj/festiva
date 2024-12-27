@@ -8,6 +8,7 @@ import {
 import { SiSpacex } from "react-icons/si";
 import { FiArrowRight } from "react-icons/fi";
 import { useRef } from "react";
+import festiva from "../../assets/logo/festivalogo.png"
 
 
 export const SmoothScrollHero = () => {
@@ -33,7 +34,10 @@ export const SmoothScrollHero = () => {
 const Nav = () => {
   return (
     <nav className="fixed left-0 right-0 top-0 z-50 flex items-center justify-between px-6 py-3 text-white">
-      <SiSpacex className="text-3xl mix-blend-difference" />
+      <img
+  src={festiva}
+  className="img mix-blend-difference w-full sm:w-auto md:w-[100px]"
+/>
       <button
         onClick={() => {
           document.getElementById("launch-schedule")?.scrollIntoView({

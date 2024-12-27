@@ -1,3 +1,4 @@
+import ContactSection from './Components/pages/ContactSection';
 import FAQs from './Components/pages/FAQs';
 import FeatureGrid from './Components/pages/FeatureGrid';
 import { SmoothScrollHero } from './Components/pages/hero';
@@ -12,6 +13,7 @@ function App() {
       <ProcessSection />
       <TestimonialSection />
       <FAQs />
+      <ContactSection />
     </main>
   )
 }
